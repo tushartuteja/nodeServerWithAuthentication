@@ -1,0 +1,7 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "consistent-return": "off",
+    "func-names": "off"
+  }
+}
